@@ -5,4 +5,6 @@ I'm Michael – a Software Developer with a penchant for Frontend design/UX. I'm
 ![](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
 
 - 📫 Contact me:
-If you're looking to hire me for work, or just have a query, then please feel free to reach me at: michaeldevfay@gmail.com
+
+If you're looking to hire me for work, or just have a query, then please feel free to reach me at: 
+- michaeldevfay@gmail.com
