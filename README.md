@@ -8,3 +8,4 @@ I'm Michael – a Software Developer with an aptitude for Frontend design/UX. I'
 
 If you're looking to hire me for work, or just have a query, then please feel free to reach me at: 
 - michaeldevfay@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/michael-devlin-/)
