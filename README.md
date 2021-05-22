@@ -1,6 +1,6 @@
 ### Hi, I'm Michael <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" style="max-width:100%;">
 
-I'm a Frontend Developer with an aptitude for User-thinking design/UX. I'm also a former Publishing Editor with a background in teaching English, and I hold an MA (Distinction) in Applied Ethics. My current working stack is JavaScript, React, CSS, HTML, and I have also been dabbling with NextJS. I made the career switch into tech so I could learn more about the technology behind the types of software I was using on a daily basis in Publishing, as well as in my personal life. It started as a hobby and has since become a professional interest. You can find links to some of the projects I've worked on – both independently and as a team – below this section.
+I'm a Frontend Developer with an aptitude for User-centred, accessible design/UX. I'm also a former Publishing Editor with a background in teaching English, and I hold an MA (Distinction) in Applied Ethics. My current working stack is JavaScript, React, CSS, HTML, and I have also been dabbling with NextJS. I made the career switch into tech so I could learn more about the technology behind the types of software I was using on a daily basis in Publishing, as well as in my personal life. It started as a hobby and has since become a professional interest. You can find links to some of the projects I've worked on – both independently and as a team – below this section.
 
 ![](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
 
