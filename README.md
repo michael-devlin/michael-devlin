@@ -11,3 +11,6 @@ I'm a Software Developer with an aptitude for user-oriented, accessible design. 
 If you're looking to hire me for work, or just have a query, then please feel free to reach me at: 
 - michaeldevfay@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/michael-devlin-/)
+
+
+###### *Banner illustration by Storyset. Design by Michael Devlin © Copyright 2021*
