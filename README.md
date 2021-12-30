@@ -2,7 +2,7 @@
 
 ![banner](https://user-images.githubusercontent.com/23028288/123145079-5991c980-d454-11eb-93b8-e1701a0b6524.gif)
 
-I'm a Product Owner & Web Engineer with an aptitude for user-oriented, accessible design. I'm also a former Publishing Editor with a background in teaching English, and I hold an MA (Distinction) in Applied Ethics. My current working stack is JavaScript, React, CSS, HTML, and I have also been dabbling with NextJS. 
+I'm a Product Owner & Web Engineer (UX) with an aptitude for user-oriented, accessible design. I'm also a former Publishing Editor with a background in teaching English, and I hold an MA (Distinction) in Applied Ethics. My current working stack is JavaScript, React, CSS, HTML, and I have also been dabbling with NextJS. 
 
 ### My Portfolio Site
 You can view My Portfolio site here:
