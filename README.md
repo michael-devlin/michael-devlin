@@ -20,4 +20,4 @@ If you're looking to hire me for work, or just have a query, then please feel fr
 - [LinkedIn](https://www.linkedin.com/in/michael-devlin-/)
 
 
-###### *Banner illustration by Storyset. Design by Michael Devlin © Copyright 2021*
+###### *Banner illustration by Storyset. Design by Michael Devlin © Copyright 2022*
