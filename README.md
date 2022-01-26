@@ -1,8 +1,9 @@
 ### Hi, I'm Michael <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" style="max-width:100%;">
 
-![banner](https://user-images.githubusercontent.com/23028288/149408795-ed823fbc-dbfd-43dc-a758-4a9d18331ca1.gif)
+![banner](https://user-images.githubusercontent.com/23028288/151247215-c098f0d3-eab3-44c9-8db4-a24b2a3b6c46.gif)
 
-I'm a User Researcher & UX Engineer with an aptitude for user-oriented, accessible design. My current engineering stack is JavaScript, React, CSS, HTML, and I have also been dabbling with NextJS. For my research and design/prototyping work, I'm mostly using Figma, Miro and Webflow.
+
+I'm a Designer / Developer & User Researcher with an passion for user-oriented, accessible design. My current engineering stack is JavaScript, React, CSS, HTML, and I have also been dabbling with NextJS. For my research and design/prototyping work, I'm mostly using Figma, Miro and Webflow.
 
 ### My Portfolio Site
 You can view My Portfolio site here:
