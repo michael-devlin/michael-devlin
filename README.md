@@ -3,10 +3,10 @@
 ![banner](https://user-images.githubusercontent.com/23028288/151247215-c098f0d3-eab3-44c9-8db4-a24b2a3b6c46.gif)
 
 
-I'm a Designer / Developer & User Researcher with an passion for user-oriented, accessible design. My current engineering stack is JavaScript, React, CSS, HTML, and I have also been dabbling with NextJS. For my research and design/prototyping work, I'm mostly using Figma, Miro and Webflow.
+I'm a UX Designer with an passion for creating user-oriented, accessible design. I'm proficient with JavaScript, React, CSS, HTML, and I have also been dabbling with NextJS. For my research and design work, I'm mostly using Figma, Miro and Webflow.
 
 ### My Portfolio Site
-You can view My Portfolio site here:
+You can view My Portfolio site here (work in progress!):
 https://michael-devlin.netlify.app/
 
 ### The Switch into Tech
@@ -15,7 +15,7 @@ I previoulsy worked in Academic Publishing and made the career switch into tech 
 
 - 📫    Contact me:
 
-If you're looking to hire me for work, or just have a query, then please feel free to reach me at: 
+If you have a query, then please feel free to reach me at: 
 - michaeldevfay@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/michael-devlin-/)
 
