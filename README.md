@@ -20,4 +20,4 @@ If you have a query, then please feel free to reach me at:
 - [LinkedIn](https://www.linkedin.com/in/michael-devlin-/)
 
 
-###### *Banner illustration by Storyset. Design by Michael Devlin © Copyright 2022*
+###### *Banner design by Michael Devlin © Copyright 2022*
