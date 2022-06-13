@@ -1,4 +1,4 @@
-### Hi, I'm Michael <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" style="max-width:100%;">
+### Hi, I'm Michael 👋
 
 ![banner](https://user-images.githubusercontent.com/23028288/151247215-c098f0d3-eab3-44c9-8db4-a24b2a3b6c46.gif)
 
