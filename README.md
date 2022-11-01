@@ -1,7 +1,6 @@
 ### Hi, I'm Michael 👋
 
-![banner](https://user-images.githubusercontent.com/23028288/151247215-c098f0d3-eab3-44c9-8db4-a24b2a3b6c46.gif)
-
+![banner](https://user-images.githubusercontent.com/23028288/199296507-a2beb562-df90-49cf-b26d-7829a3e3b8a6.png)
 
 I'm a UX Designer with an passion for creating user-oriented, accessible design. I'm proficient with JavaScript, React, CSS, HTML, and I have also been dabbling with NextJS. For my research and design work, I'm mostly using Figma, Miro and Webflow.
 
