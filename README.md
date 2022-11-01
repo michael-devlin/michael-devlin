@@ -10,7 +10,7 @@ https://michael-devlin.netlify.app/
 
 ### The Switch into Tech
 
-I previoulsy worked in Academic Publishing and made the career switch into tech so I could learn more about the technology behind the types of software I was using on a daily basis in both my professional and personal life. It started as a hobby and has since become a professional interest – driven by my passion for augmenting the user experience. You can find links to some of the projects I've worked on – both independently and as a team – below this section.
+I now work for the public sector as a Designer at Made Tech, but I previoulsy worked in Academic Publishing. I made the career switch into tech so I could learn more about the technology behind the types of software I was using on a daily basis in both my professional and personal life. It started as a hobby and has since become a professional interest – driven by my passion for augmenting user experience.
 
 - 📫    Contact me:
 
