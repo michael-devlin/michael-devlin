@@ -8,7 +8,7 @@ I'm a UX Designer with an passion for creating user-oriented, accessible design.
 You can view My Portfolio site here (work in progress!):
 https://michael-devlin.netlify.app/
 
-### My Joruney in Tech
+### My Journey in Tech
 
 I made the career switch into tech in early 2021 so I could learn more about the technology behind the types of software I was using in both my professional and personal life. It started as a hobby and has since become a professional interest – driven by my passion for augmenting user experience. I now work as a Designer at Made Tech where I design sites, apps, and services for the public sector.
 
