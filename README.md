@@ -1,6 +1,6 @@
 ### Hi, I'm Michael 👋
 
-![banner](https://user-images.githubusercontent.com/23028288/199296507-a2beb562-df90-49cf-b26d-7829a3e3b8a6.png)
+![LinkedIn Banner](https://user-images.githubusercontent.com/23028288/221605358-9d865411-ba1b-406f-8cff-8f267d71af1b.png)
 
 I'm a UX Designer with an passion for creating user-oriented, accessible design. I'm proficient with JavaScript, CSS, HTML, and I have also been dabbling with frameworks such as React and NextJS. For my research and design work, I'm mostly using Figma, Webflow, and the GDS Prototype kit for building prototypes for government services.
 
