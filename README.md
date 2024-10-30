@@ -1,8 +1,8 @@
 ### Hi, I'm Michael 👋
 
-![LinkedIn Banner](https://user-images.githubusercontent.com/23028288/221605358-9d865411-ba1b-406f-8cff-8f267d71af1b.png)
+![LinkedIn Banner](https://github.com/user-attachments/assets/5da0d5d5-5fce-4ed1-83e7-1637d9dbad3e)
 
-I'm a UX Designer with an passion for creating user-oriented, accessible design. I'm proficient with JavaScript, CSS, HTML, and I have also been dabbling with frameworks such as React and NextJS. For my research and design work, I'm mostly using Figma, Webflow, and the GDS Prototype kit for building prototypes for government services.
+I'm a Lead Designer with an passion for creating user-centred, accessible design. I'm proficient with JavaScript, CSS, HTML, and I have also been dabbling with frameworks such as React and NextJS. I've conducted research and design work spannning from UX/UI, including prototyping with Axure and Figma, and more recently in Service Design.
 
 ### My Portfolio Site
 You can view My Portfolio site here (work in progress!):
@@ -10,7 +10,7 @@ https://michael-devlin.netlify.app/
 
 ### My Journey in Tech
 
-I made the career switch into tech in early 2021 so I could learn more about the technology behind the types of software I was using in both my professional and personal life. It started as a hobby and has since become a professional interest – driven by my passion for augmenting user experience. I now work as a Product Designer at Citizens Advice where I design sites, apps, and services.
+I began as a Digital Content Editor before getting into web design and development, which led to me getting involved in UX. I now work as a Design Lead at Citizens Advice where I've helped design design sites, web apps, and services.
 
 - 📫    Contact me:
 
