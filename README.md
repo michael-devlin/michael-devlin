@@ -8,9 +8,9 @@ I'm a Design Lead with a passion for creating user-centred, accessible design. I
 You can view My Portfolio site here (work in progress!):
 https://michael-devlin.netlify.app/
 
-### My Journey in Tech
+### My Background
 
-I was as a Digital Content Editor where I created and edited web content before eventually getting into web design and development, which then led to me getting involved in UX. I now work as a Design Lead at Citizens Advice where I've helped design design sites, web apps, and services.
+I now work as a Design Lead at Citizens Advice where I've helped design design sites, web apps, and services.
 
 - 📫    Contact me:
 
