@@ -10,7 +10,7 @@ https://michael-devlin.netlify.app/
 
 ### My Background
 
-I now work as a Design Lead at Citizens Advice where I've helped design software, websites, and services.
+I worked previously as a Design Lead at Citizens Advice, Made Tech, and SIDE Labs where I helped design software, websites, and services.
 
 - 📫    Contact me:
 
